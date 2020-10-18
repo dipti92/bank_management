@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bank_management/static/css/main.5ed9b467.chunk.css",
+    "main.js": "/bank_management/static/js/main.907200d0.chunk.js",
+    "main.js.map": "/bank_management/static/js/main.907200d0.chunk.js.map",
+    "runtime-main.js": "/bank_management/static/js/runtime-main.758342be.js",
+    "runtime-main.js.map": "/bank_management/static/js/runtime-main.758342be.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/bank_management/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ab6d7b86.chunk.js": "/bank_management/static/js/2.ab6d7b86.chunk.js",
+    "static/js/2.ab6d7b86.chunk.js.map": "/bank_management/static/js/2.ab6d7b86.chunk.js.map",
+    "index.html": "/bank_management/index.html",
+    "precache-manifest.eb3e14587fe9cd3525f466f3e2c8fc14.js": "/bank_management/precache-manifest.eb3e14587fe9cd3525f466f3e2c8fc14.js",
+    "service-worker.js": "/bank_management/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/bank_management/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ed9b467.chunk.css.map": "/bank_management/static/css/main.5ed9b467.chunk.css.map",
+    "static/js/2.ab6d7b86.chunk.js.LICENSE.txt": "/bank_management/static/js/2.ab6d7b86.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bank_management/static/media/TDS-on-Bank-Deposit-and-Interest.b4bd8732.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.758342be.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ab6d7b86.chunk.js",
+    "static/css/main.5ed9b467.chunk.css",
+    "static/js/main.907200d0.chunk.js"
+  ]
+}
