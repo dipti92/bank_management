@@ -1,0 +1,35 @@
+.cont{
+    background:rgba(255, 255, 255, 0.959);
+ color: black;
+    width:70%;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+}
+
+.tsize{
+    font-size: 22px;
+  }
+  img{
+    height:200px;
+  width:200px;
+}
+ 
+.wid{
+    width: 200px;
+}
+.wl{
+    width: 210px;
+}
+
+td{
+ 
+  font-size: 21px;
+}
+.bb{
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}

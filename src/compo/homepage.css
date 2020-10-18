@@ -1,0 +1,39 @@
+.brand{
+    font-weight: bold;
+    font-size: 48px;
+    font-family: fantasy;
+    color:lightcoral;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color:lightcoral;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  th{
+      text-align: center;
+  }
+
+  .fsize{
+      font-size: 20px;
+
+  }
+
+  .colo{
+      color: white;
+  }
+  p{
+      font-size: 19px;
+      margin: 15px;
+  }
+  .tag{
+      color: lightcoral;
+      font-size: 20px;
+      font-weight: bold;
+  }
